@@ -8,11 +8,7 @@ export const Biography = () => {
         I am a final-year Ph.D. student at Peking University Shenzhen Graduate School, under the supervision of Professors
         <a href="https://jianzhang.tech" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline mx-1">
           Jian Zhang
-        </a>
-        and
-        <a href="https://www.ece.pku.edu.cn/info/1053/2231.htm" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline mx-1">
-          Jie Chen
-        </a>
+        </a> 
         .
       </p>
 
